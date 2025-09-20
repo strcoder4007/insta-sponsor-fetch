@@ -1,0 +1,5 @@
+venv
+.pw
+__pycache__
+.env
+data.csv

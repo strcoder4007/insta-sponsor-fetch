@@ -1,0 +1,30 @@
+scraping:
+  max_posts: 6
+  scroll_rounds: 6
+  sleep_min: 0.4
+  sleep_max: 1.2
+
+sponsorship_keywords:
+  - "#ad"
+  - "#sponsored"
+  - "#partner"
+  - "#paidpartnership"
+  - "paid partnership"
+  - "partnered"
+  - "gifted"
+  - "gifted stay"
+
+hotel_terms:
+  - "hotel"
+  - "resort"
+  - "inn"
+  - "lodge"
+  - "spa"
+  - "boutique"
+  - "suites"
+
+enrichment:
+  google_places:
+    enabled: false
+    api_key_env: GOOGLE_PLACES_API_KEY
+
